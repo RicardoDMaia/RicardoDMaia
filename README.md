@@ -1,6 +1,5 @@
 <h1 align="left">Hey, i'm Ricardo👋</h1>
-
-###
+<br/>
 
 <h2 align="left">About Me</h2>
 
